@@ -174,7 +174,16 @@
                 "Qué es AI?", "Qué es IA?", "Qué es Inteligencia artificial?", "Qué es Artificial Intelligence", "inteligencia artificial", "artifical intelligence"
             ],
             "responses": [
-                
+                "La inteligencia artificial es la habilidad de una máquina de presentar las mismas capacidades que los seres humanos, como el razonamiento, el aprendizaje, la creatividad y la capacidad de planear"
+            ]
+        },
+        {
+            "tag": "planetasSolaresNumero",
+            "patterns": [
+                "¿Cuántos planetas hay en el sistema solar?", "Sabes cuántos planetas hay en el sistema solar?", "Número de planetas del sistema solar", "Numero planetas sistema solar", "sistema solar"
+            ],
+            "responses": [
+                "Hay ocho planetas en el sistema solar: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno"
             ]
         }
     ]
